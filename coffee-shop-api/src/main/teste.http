@@ -1,0 +1,7 @@
+POST http://localhost:8080/api/pagamentos/processar
+Content-Type: application/json
+
+{
+  "valor": 75.50,
+  "tipo": "CARTAO"
+}

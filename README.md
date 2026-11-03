@@ -83,13 +83,3 @@ Desenvolvido por Maria Eduarda Barbosa.
 
 
 ---
-
-### 💡 Como adicionar esse `README.md` no seu projeto:
-1. Abra o **IntelliJ IDEA**.
-2. Na raiz do projeto `coffee-shop-api`, crie (ou abra) o arquivo `README.md`.
-3. Cole o conteúdo acima e salve.
-4. No terminal do IntelliJ ou PowerShell, envie a atualização para o GitHub:
-   ```powershell
-   git add README.md
-   git commit -m "docs: adiciona README profissional do projeto"
-   git push origin main
